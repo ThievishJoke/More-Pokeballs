@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "cobblemon:poke_ball",
   "textures": {
     "layer0": "more_pokeballs:item/poke_balls/fire_ball"
   }
